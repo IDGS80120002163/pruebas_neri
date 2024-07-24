@@ -1,0 +1,1 @@
+print("No sale jajaja")
